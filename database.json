@@ -6,5 +6,9 @@
   {
     "number": "12345678910",
     "status": "blacklist"
+  },
+  {
+    "number": "777777777777777",
+    "status": "active"
   }
 ]
