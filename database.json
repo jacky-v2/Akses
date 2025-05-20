@@ -14,5 +14,9 @@
   {
     "number": "1212121212",
     "status": "blacklist"
+  },
+  {
+    "number": "6281233595711",
+    "status": "active"
   }
 ]
